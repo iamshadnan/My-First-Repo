@@ -4,6 +4,9 @@ div{
     padding: 30px;
     border: 5px solid rgb(255, 200, 0);
 }
+img{
+    width: 200px;
+}
 p{
     font-size: 20px;
 }
